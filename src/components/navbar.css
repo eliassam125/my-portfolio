@@ -6,9 +6,9 @@
     z-index: 1;
     display: flex; 
     flex-direction:column;
-    justify-content: center;
-    align-items: center;
-    row-gap: 10vh;
+    justify-content: flex-start;
+    align-items:stretch;
+    row-gap: 0;
     
 }
 
@@ -18,7 +18,9 @@
 .nav{
     background-color: rgb(30, 51, 239);
     list-style-type: none;
-    border-radius: 10%;
+
+   
+    
     flex: 1 1 0;
 }
 
@@ -31,6 +33,9 @@
 .item{
     width: 100%;
     width: 100%;
+    display: flex ;
+    flex-direction: row ;
+    justify-content: center;
 }
 
 .link{

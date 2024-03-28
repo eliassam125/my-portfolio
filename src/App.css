@@ -41,14 +41,7 @@
   
 }
 
-.translator{
-  grid-column-start: 5;
-  grid-column-end: 7;
-  grid-row-start: 1;
-  grid-row-end: 2;
-  background-color: green;
-  
-}
+
 .mi_foto{
   height: 99%;
   width: 100%;

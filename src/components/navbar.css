@@ -14,6 +14,7 @@
 
 .navbar:hover{
     width: 20%;
+    transition: 1s;
 }
 .nav{
     background-color: rgb(30, 51, 239);
@@ -25,7 +26,21 @@
 .nav:hover{
     background-color: rgb(67, 161, 255);
     
+}
+
+.nav{
+    background-color: rgb(30, 51, 239);
+    list-style-type: none;
+    height: 25vh;
+    
+}
+
+.nav:hover{
+    background-color: rgb(67, 161, 255);
+    
 } 
+
+
 
 
 .item{
@@ -48,4 +63,20 @@
     max-width: 25vh;
     
    
+}
+.texto{
+    color: transparent;
+    font-size: 25px;
+    position: fixed;
+    width: 0%;
+    margin-left: 15vw;
+    margin-top: -15vh;
+}
+.nav:hover .texto{
+
+    font-size: 25px;
+    background-color: rgb(27, 202, 255);
+    color: rgb(0, 10, 84);
+    width: 250px;
+    transition: 2s;
 }

@@ -14,7 +14,7 @@ function Navbar() {
               <a className='link'>
                 <img src={homelogo}
                 className='logo'/>
-                <span></span>
+                <p className='texto'>hola la rechoncha de tu hermana</p>
               </a>
             </div>
           </div>
@@ -24,7 +24,7 @@ function Navbar() {
               <a className='link'>
                 <img src={estudioslogo}
                 className='logo'/>
-                <span></span>
+                <p className='texto'>hola la rechoncha de tu hermana</p>
              </a>
             </li>
           </div>
@@ -33,7 +33,7 @@ function Navbar() {
               <a className='link'>
                 <img src={codelogo}
                 className='logo'/>
-                <span></span>
+                <p className='texto'>hola la rechoncha de tu hermana</p>
               </a>
             </li>
           </div>
@@ -42,7 +42,7 @@ function Navbar() {
               <a className='link'>
                 <img src={maillogo}
                 className='logo'/>
-                <span></span>
+                <p className='texto'>hola la rechoncha de tu hermana</p>
               </a>
             </li>
           </div>

@@ -69,18 +69,27 @@
     font-size: 25px;
     position: fixed;
     width: 0%;
-    margin-left: 16vw;
+    padding-left: 5vw;
+    margin-left: 10vw;
     margin-top: -15vh;
 }
 .nav:hover .texto{
 
     font-size: 25px;
-    background-color: rgb(27, 202, 255);
+    background-color: rgb(67, 161, 255);
     color: rgb(0, 10, 84);
     width: 250px;
     transition: 2s;
 }
 
+.link-texto{
+    color: transparent;
+    font-size: 25px;
+}
+
+.nav:hover .link-texto{
+    color: rgb(0, 10, 84);
+}
 
 @media screen and (max-width: 800px) {
     .texto{

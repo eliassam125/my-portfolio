@@ -2,7 +2,7 @@ import './code.css'
 function Code() {
     return (
       <div className='code'>
-        <p>asd</p>
+        <p>code</p>
       </div>
   );
 }

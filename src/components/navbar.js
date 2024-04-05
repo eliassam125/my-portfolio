@@ -14,9 +14,9 @@ function Navbar() {
               <a className='link'>
                 <img src={homelogo}
                 className='logo'/>
-                <p className='texto'>hola la rechoncha de tu hermana
+                <p className='texto'>Pagina de Inicio / Home Page. 
                 <a href="/"
-                className='link-texto'>link</a>
+                className='link-texto'> click</a>
                 </p>
               </a>
             </div>
@@ -27,9 +27,9 @@ function Navbar() {
               <a className='link'>
                 <img src={estudioslogo}
                 className='logo'/>
-                <p className='texto'>hola la rechoncha de tu hermana
+                <p className='texto'>Estudios Universitarios, Lecturas Destacadas, Cursos en Línea, Idiomas y Otros Logros.
                 <a href="/Estudios"
-                className='link-texto'>link</a>
+                className='link-texto'> click</a>
                 </p>
              </a>
             </li>
@@ -39,9 +39,9 @@ function Navbar() {
               <a className='link'>
                 <img src={codelogo}
                 className='logo'/>
-                <p className='texto'>hola la rechoncha de tu hermana
+                <p className='texto'>Projectos de Codigo de Ciencias de Datos, Analisis de Datos e Ingenieria, asi como Ejercicios.
                 <a href="/Code"
-                className='link-texto'>link</a>
+                className='link-texto'> click</a>
                 </p>
               </a>
             </li>
@@ -51,9 +51,9 @@ function Navbar() {
               <a className='link'>
                 <img src={maillogo}
                 className='logo'/>
-                <p className='texto'>hola la rechoncha de tu hermana
+                <p className='texto'>Comunícate conmigo: Mail, Whatsapp, LinkedIn, Workana, Fiverr y más.
                 <a href="/Contacto"
-                className='link-texto'>link</a>
+                className='link-texto'> click</a>
                 </p>
               </a>
             </li>

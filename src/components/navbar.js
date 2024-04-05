@@ -15,7 +15,7 @@ function Navbar() {
                 <img src={homelogo}
                 className='logo'/>
                 <p className='texto'>Pagina de Inicio / Home Page. 
-                <a href="/"
+                <a href="/my-portfolio"
                 className='link-texto'> click</a>
                 </p>
               </a>
@@ -28,7 +28,7 @@ function Navbar() {
                 <img src={estudioslogo}
                 className='logo'/>
                 <p className='texto'>Estudios Universitarios, Lecturas Destacadas, Cursos en Línea, Idiomas y Otros Logros.
-                <a href="/Estudios"
+                <a href="/my-portfolio/Estudios"
                 className='link-texto'> click</a>
                 </p>
              </a>
@@ -40,7 +40,7 @@ function Navbar() {
                 <img src={codelogo}
                 className='logo'/>
                 <p className='texto'>Projectos de Codigo de Ciencias de Datos, Analisis de Datos e Ingenieria, asi como Ejercicios.
-                <a href="/Code"
+                <a href="/my-portfolio/Code"
                 className='link-texto'> click</a>
                 </p>
               </a>
@@ -52,7 +52,7 @@ function Navbar() {
                 <img src={maillogo}
                 className='logo'/>
                 <p className='texto'>Comunícate conmigo: Mail, Whatsapp, LinkedIn, Workana, Fiverr y más.
-                <a href="/Contacto"
+                <a href="/my-portfolio/Contacto"
                 className='link-texto'> click</a>
                 </p>
               </a>

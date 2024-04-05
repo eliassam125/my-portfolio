@@ -34,7 +34,7 @@ function Navbar() {
                 <img src={codelogo}
                 className='logo'/>
                 <p className='texto'>hola la rechoncha de tu hermana
-                <a href="https://www.w3schools.com/html/html_links.asp"
+                <a href="/Code"
                 className='link-texto'>link text</a>
                 </p>
               </a>

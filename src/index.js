@@ -4,12 +4,16 @@ import './index.css';
 import App from './App';
 import Navbar from './components/navbar';
 import reportWebVitals from './reportWebVitals';
+import { HashRouter } from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Navbar/>
-    <App />
+    <HashRouter>
+      <App />
+    </HashRouter>
+   
   </React.StrictMode>
 );
 

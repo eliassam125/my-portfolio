@@ -8,15 +8,15 @@ import Contacto from './components/contacto';
 
 function App() {
   return (
-    <BrowserRouter>
+    
       <Routes>
-        <Route path='/my-portfolio' element={<Home/>}/>
-        <Route path='/my-portfolio/Code' element={<Code/>}/>
-        <Route path='/my-portfolio/Estudios' element={<Estudios/>}/>
-        <Route path='/my-portfolio/Contacto' element={<Contacto/>}/>
+        <Route path='/Home' element={<Home/>}/>
+        <Route path='/Code' element={<Code/>}/>
+        <Route path='/Estudios' element={<Estudios/>}/>
+        <Route path='/Contacto' element={<Contacto/>}/>
       </Routes>
     
-    </BrowserRouter>
+    
     
   );
 }

@@ -51,7 +51,7 @@ function Navbar() {
               <a className='link'>
                 <img src={maillogo}
                 className='logo'/>
-                <p className='texto'>Comunícate conmigo: Mail, Whatsapp, LinkedIn, Workana, Fiverr y más.
+                <p className='texto'>Comunícate conmigo: Mail, Whatsapp y más.
                 <a href="/my-portfolio/#/Contacto"
                 className='link-texto'> click</a>
                 </p>

@@ -1,8 +1,24 @@
 .contacto{
 
     display:grid;
+    
+    background-color: rgb(7, 7, 129);
+    height: 100vh;
+
+    
+}
+.titulo{
+        margin-left: 25vw;
+        align-items: center;
+}
+.telefono-barra{
     margin-left: 25vw;
-    
-  
-    
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    margin-top: -100vh;
+}
+.number{
+    font-size: 30px;
+    padding: 5%;
 }

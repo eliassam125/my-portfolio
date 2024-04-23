@@ -1,7 +1,6 @@
 .contacto{
-
+    /* no quitar display grid*/
     display:grid;
-    
     background-color: rgb(7, 7, 129);
     height: 100vh;
 
@@ -10,15 +9,43 @@
 .titulo{
         margin-left: 25vw;
         align-items: center;
+        font-size: 60px;
 }
 .telefono-barra{
     margin-left: 25vw;
     display: flex;
     flex-direction:row;
     align-items: center;
-    margin-top: -100vh;
+    margin-top: -35vh;
 }
 .number{
     font-size: 30px;
     padding: 5%;
+}
+.mail-barra{
+    margin-left: 25vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -35vh;
+}
+.socialmedia-barra{
+    margin-left: 25vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -20vh;
+}
+.social-block{
+    display: flex;
+    flex-direction: column;
+    padding-right: 10%;
+}
+.social-logo{
+    height: 100px;
+    width: 100px;
+}
+.link-text{
+    color: rgb(29, 165, 120);
+    font-size: 40px;
 }

@@ -14,7 +14,7 @@ function Contacto() {
       <div className='contacto'>
         <h1 className='titulo'>contacto</h1>
         <div className='telefono-barra'>
-          <img src={cellphone} className='social-logo'/> <p className='number'>+54 3876-404816 </p> <img src={whatsapp} className='social-logo'/>
+          <img src={cellphone} className='social-logo'/> <p className='number'>(+54) 3876-404816 </p> <img src={whatsapp} className='social-logo'/>
         </div>
         <div className='mail-barra'>
           <img src={gmail} className='social-logo'/> <p className='number'>eliaspalavecino125@gmail.com</p> 

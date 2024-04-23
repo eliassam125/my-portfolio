@@ -10,24 +10,25 @@
         margin-left: 25vw;
         align-items: center;
         font-size: 60px;
+       
 }
 .telefono-barra{
     margin-left: 25vw;
     display: flex;
     flex-direction:row;
     align-items: center;
-    margin-top: -35vh;
+    margin-top: -30vh;
 }
 .number{
     font-size: 30px;
-    padding: 5%;
+    
 }
 .mail-barra{
     margin-left: 25vw;
     display: flex;
     flex-direction: row;
     align-items: center;
-    margin-top: -35vh;
+    margin-top: -25vh;
 }
 .socialmedia-barra{
     margin-left: 25vw;
@@ -49,3 +50,33 @@
     color: rgb(29, 165, 120);
     font-size: 40px;
 }
+
+@media screen and (max-width: 800px) {
+    .contacto{
+        margin-left: -11vw;
+    }
+    .titulo{
+        height: 10px;
+        margin-top: 0vh}
+    .telefono-barra{
+        height: 10px;
+        margin-top: -6vh;
+    }
+    .number{
+        font-size: 18px;
+    }
+    .mail-barra{
+        height: 10px;
+        margin-top: -12vh;
+    }
+    .socialmedia-barra{
+        height: 10px;
+        margin-top: -12vh;
+    }
+    .social-logo{
+        height: 45px;
+        width: 45px;
+    }
+    .link-text{
+        font-size: 13px;
+  }}

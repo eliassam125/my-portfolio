@@ -1,8 +1,20 @@
 .estudios{
 
     display:grid;
-    margin-left: 25vw;
-    
+    background-color: rgb(7, 7, 129);
+    height: 100vh;
   
+
+}
+.titulo{
     
+}
+.estudios-uni{
+    margin-left: 25vw;
+    margin-top: -40vh;
+    display: flex;
+    flex-direction: row;
+    height: 10vh;
+    align-items:center;
+    justify-content:space-evenly;
 }

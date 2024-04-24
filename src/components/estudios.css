@@ -18,3 +18,9 @@
     align-items:center;
     justify-content:space-evenly;
 }
+
+.gallery-percentage{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}

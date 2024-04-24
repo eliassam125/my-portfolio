@@ -53,8 +53,9 @@
 }
 
 .link{
-  
+
 }
+
 
 .logo{
     height: 100%;
@@ -65,29 +66,33 @@
    
 }
 .texto{
-    color: transparent;
+    color:transparent;
     font-size: 25px;
     position: fixed;
-    width: 0%;
+    width: 0px;
     padding-left: 5vw;
-    margin-left: 10vw;
+    margin-left: -50vw;
     margin-top: -15vh;
+    transition-property: width, margin-left, background-color, color;
+    transition-duration:1s,0.01s,1s,1s ;
 }
-.nav:hover .texto{
 
-    font-size: 25px;
+.nav:hover .texto{
+    width: 250px;
+    margin-left: 10vw;
     background-color: rgb(67, 161, 255);
     color: rgb(0, 10, 84);
-    width: 250px;
-    transition: 1s;
+    
 }
 
 .link-texto{
-    color: transparent;
+    color: black;
     font-size: 25px;
+    width: 0px;
 }
 
 .nav:hover .link-texto{
+    width: 100%;
     color: rgb(0, 10, 84);
 }
 

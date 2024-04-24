@@ -10,7 +10,9 @@ function Estudios() {
              and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
         </div>
         <div className='gallery-percentage'>
-          <div className='gallery-uni'></div>
+          <div className='gallery-uni'>
+            
+          </div>
           <img className='percentage'/>
         </div>
        

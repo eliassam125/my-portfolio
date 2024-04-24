@@ -86,7 +86,7 @@
 }
 
 .link-texto{
-    color: black;
+    color: transparent;
     font-size: 25px;
     width: 0px;
 }
@@ -98,7 +98,7 @@
 
 @media screen and (max-width: 800px) {
     .texto{
-        margin-left: 21vw;
+        margin-left: -50vw;
         
     }
   }

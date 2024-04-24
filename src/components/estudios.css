@@ -20,7 +20,12 @@
 }
 
 .gallery-percentage{
-    background-color: white;
+    
     display: flex;
     flex-direction: row;
+    margin-left: 20vw;
+}
+.percentage{
+    height: 100px;
+    width: 100px;
 }

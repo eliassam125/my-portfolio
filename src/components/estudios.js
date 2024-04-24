@@ -1,6 +1,6 @@
 import './estudios.css'
 import escudo from './img/escudo-uni.png'
-
+import Gallery from './gallery';
 function Estudios() {
     return (
       <div className='estudios'>
@@ -10,11 +10,17 @@ function Estudios() {
              and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
         </div>
         <div className='gallery-percentage'>
-          <div className='gallery-uni'>
-            
-          </div>
-          <img className='percentage'/>
+          <Gallery/>
+          <Gallery/>
+          <Gallery/>
+          <Gallery/>
+
+          <img className='percentage' src={escudo}/>
         </div>
+        <Gallery/>
+          <Gallery/>
+          <Gallery/>
+          <Gallery/>
        
       </div>
   );

@@ -1,0 +1,63 @@
+
+.slide-container {
+    width: 200px;
+    height: 200px;
+    margin: 0;
+    
+  }
+  
+
+  
+  .each-slide > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 100%;
+  }
+  
+  .each-slide span {
+    padding: 20px;
+    font-size: 200px;
+    background:transparent;
+    text-align: center;
+  }
+  
+  .each-fade {
+    display: flex;
+  }
+  
+  .each-fade .image-container {
+    width: 75%;
+    overflow: hidden;
+  }
+  
+  .each-fade .image-container img {
+    width: 100%;
+  }
+  
+  .each-fade h2 {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background: #adceed;
+  }
+  
+  .indicator {
+    width: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    cursor: pointer;
+    border: 1px rgb(0, 0, 0) solid;
+    background: #b0fbff;
+  }
+  .indicator.active {
+    background: #1eb8ff;
+    color: #fff;
+  }
+.lazy{
+    width: 200px;
+    height: 200px;
+}

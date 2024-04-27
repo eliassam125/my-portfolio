@@ -1,7 +1,7 @@
 
 .slide-container {
-    width: 200px;
-    height: 200px;
+    width: 700px;
+    height: 394px;
     margin: 0;
     
   }
@@ -52,12 +52,22 @@
     cursor: pointer;
     border: 1px rgb(0, 0, 0) solid;
     background: #b0fbff;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    z-index:2;
   }
   .indicator.active {
+    
     background: #1eb8ff;
     color: #fff;
   }
+  .buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 20px;
+  }
 .lazy{
-    width: 200px;
-    height: 200px;
+  width: 700px;
+  height: 394px;
 }

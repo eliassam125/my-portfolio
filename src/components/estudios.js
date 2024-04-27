@@ -1,27 +1,43 @@
 import './estudios.css'
 import escudo from './img/escudo-uni.png'
+import percentage31 from './img/31-percentage.png'
 import Gallery from './gallery';
+import uni1 from './img/estudios-uni1.png'
+import uni2 from './img/estudios-uni2.png'
+import uni3 from './img/estudios-uni3.png'
+import kagglelogo from './img/kaggle-logo.png'
 function Estudios() {
     return (
       <div className='estudios'>
         <h1 className='titulo'>Estudios</h1>
         <div className='estudios-uni'>
-          <img src={escudo}/><p >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-             and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+          <img src={escudo}/><p className='text-uni'>Estudio Ingeniería en Computación en la Universidad Nacional de Cordoba,
+             es una carrera que integra conocimientos de ciencias electrónicas, tecnología de la información,
+             matemáticas y física. Va más allá de la programación, abarcando el diseño y desarrollo de software,
+             así como la implementación de soluciones tecnológicas avanzadas. Genera un espectro de habilidades para abordar
+             proyectos con rigurosidad técnica, apoyados en una base sólida de conocimientos en ciencia.</p>
         </div>
         <div className='gallery-percentage'>
-          <Gallery/>
-          <Gallery/>
-          <Gallery/>
-          <Gallery/>
-
-          <img className='percentage' src={escudo}/>
+          <Gallery slideImages={[uni1,uni2,uni3]}/>
+          <img className='percentage' src={percentage31}/>
         </div>
-        <Gallery/>
-          <Gallery/>
-          <Gallery/>
-          <Gallery/>
-       
+        <div className='site-container'>
+          <img src={kagglelogo} className='site-logo'/>
+          <Gallery slideImages={[uni1,uni2,uni3]}/>
+        </div>
+        <div className='site-container'>
+          <img src={kagglelogo} className='site-logo'/>
+          <Gallery slideImages={[uni1,uni2,uni3]}/>
+        </div>
+        <div className='site-container'>
+          <img src={kagglelogo} className='site-logo'/>
+          <Gallery slideImages={[uni1,uni2,uni3]}/>
+        </div>
+        <div className='site-container'>
+          <img src={kagglelogo} className='site-logo'/>
+          <Gallery slideImages={[uni1,uni2,uni3]}/>
+        </div>
+
       </div>
   );
 }

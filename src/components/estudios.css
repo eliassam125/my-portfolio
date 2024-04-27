@@ -2,7 +2,7 @@
 
     display:grid;
     background-color: rgb(7, 7, 129);
-    height: 100vh;
+    height: 520vh;
   
 
 }
@@ -10,22 +10,43 @@
     
 }
 .estudios-uni{
-    margin-left: 25vw;
-    margin-top: -20vh;
+    margin-left: 20vw;
+    margin-top: -10vh;
     display: flex;
     flex-direction: row;
     height: 10vh;
     align-items:center;
     justify-content:space-evenly;
 }
+.text-uni{
+    padding-left: 12px;
+    padding-right: 19px;
+    background-color: rgb(96, 234, 255);
+    border-radius: 17px;
+}
 
-.gallery-percentage{
-    
+.gallery-percentage {
+    margin-top: -25vh;
+    align-items: center;
     display: flex;
     flex-direction: row;
     margin-left: 20vw;
 }
 .percentage{
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 40px;
+}
+.site-container{
+    margin-top: -9vh;
+    align-items: center;
+    justify-content:space-evenly;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20vw;
+}
+.site-logo{
+    height: 200px;
+    width: 400px;
 }

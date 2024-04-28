@@ -39,7 +39,7 @@ function Navbar() {
               <a className='link'>
                 <img src={codelogo}
                 className='logo'/>
-                <p className='texto'>Projectos de Codigo de Ciencias de Datos, Analisis de Datos e Ingenieria, asi como Ejercicios.
+                <p className='texto'>Projectos de Codigo de Ciencias de Datos, Web Development e Ingenieria, asi como Ejercicios.
                 <a href="/my-portfolio/#/Code"
                 className='link-texto'> click</a>
                 </p>

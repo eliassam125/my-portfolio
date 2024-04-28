@@ -1,11 +1,51 @@
 .code{
-
-    display:grid;
-    padding-left: 20vw;
-    
+    display: grid;
+    background-color: rgb(7, 7, 129);
+    height: 290vh;
   
     
 }
-.mySlides {display:none}
-.w3-left, .w3-right, .w3-badge {cursor:pointer}
-.w3-badge {height:13px;width:13px;padding:0}
+h1{
+    margin-left: 300px;
+}
+
+
+.excercise-container{
+    margin-top: -25vh;
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+    justify-content: space-evenly;    
+    margin-left: 200px;
+    
+}
+.excercise-site{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.excercise-img{
+    height: 100px;
+    width: 100px;
+}
+.excercise-text{
+    font-size: 40px;
+}
+.pro-container{
+    
+    margin-top: -45vh;
+    align-items: center;
+    justify-content:space-evenly;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20vw;
+    
+}
+.pro-logo{
+    height: 200px;
+    width: 400px;
+    z-index: 0;
+}
+.gallery{
+    z-index: 1;
+}

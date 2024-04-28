@@ -23,19 +23,27 @@ function Estudios() {
         </div>
         <div className='site-container'>
           <img src={kagglelogo} className='site-logo'/>
+          <div className='gallery'>
           <Gallery slideImages={[uni1,uni2,uni3]}/>
+          </div>
         </div>
         <div className='site-container'>
           <img src={kagglelogo} className='site-logo'/>
+          <div className='gallery'>
           <Gallery slideImages={[uni1,uni2,uni3]}/>
+          </div>
         </div>
         <div className='site-container'>
           <img src={kagglelogo} className='site-logo'/>
+          <div className='gallery'>
           <Gallery slideImages={[uni1,uni2,uni3]}/>
+          </div>
         </div>
         <div className='site-container'>
           <img src={kagglelogo} className='site-logo'/>
+          <div className='gallery'>
           <Gallery slideImages={[uni1,uni2,uni3]}/>
+          </div>
         </div>
 
       </div>

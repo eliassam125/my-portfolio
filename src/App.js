@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './components/img/31-percentage.png';
 import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './components/home';

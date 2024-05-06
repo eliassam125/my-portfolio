@@ -54,3 +54,32 @@
 .gallery{
     z-index: 1;
 }
+
+@media screen and (max-width: 800px) {
+.estudios{
+    height: 400vh;
+}
+.estudios-uni{
+    width: 280px;
+    flex-direction:column;
+}
+.escudo{
+    width: 280px;
+}
+.site-logo{
+    height: 100px;
+    width: 200px;
+    z-index: 0;
+}
+.gallery-percentage {
+
+    flex-direction:column-reverse;
+
+}
+.percentage{
+    height: 90px;
+    width: 90px;
+    margin-left: 0px;
+}
+
+}

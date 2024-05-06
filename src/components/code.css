@@ -26,10 +26,13 @@ h1{
 }
 .excercise-img{
     height: 100px;
-    width: 100px;
+    width: 300px;
+    background-color: azure;
+    border-radius: 20px;
 }
 .excercise-text{
     font-size: 40px;
+    
 }
 .pro-container{
     

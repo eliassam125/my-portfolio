@@ -72,3 +72,19 @@
   width: 800px;
   height: 450px;
 }
+@media screen and (max-width: 800px) {
+  .slide-container {
+    width: 280px;
+    height: 158px;
+    margin: 0;
+    
+  }
+  .lazy{
+    width: 280px;
+    height: 158px;
+  }
+  .buttons{
+    height: 20px;
+  }
+  
+}

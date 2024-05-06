@@ -3,6 +3,8 @@ import Gallery from './gallery';
 import uni1 from './img/estudios-uni1.png'
 import uni2 from './img/estudios-uni2.png'
 import uni3 from './img/estudios-uni3.png'
+import leetcode from './img/LeetCode_Logo.png'
+import excercism from './img/Exercism-logo.png'
 
 
 function Code() {
@@ -14,10 +16,18 @@ function Code() {
     <h1>projectos de codigo</h1>
     <div className='excercise-container'>
       <div className='excercise-site'>
-        <img src={uni1} className='excercise-img'/><p className='excercise-text'>5</p>
+        <img src={leetcode} className='excercise-img'/>
+        <p className='excercise-text'>
+        <a href='https://leetcode.com/u/EliasSam125/'>link a mi perfil</a>  
+        <br/>
+        ejercicios resueltos : 5</p>
       </div>
       <div className='excercise-site'>
-        <img src={uni1} className='excercise-img'/><p className='excercise-text'>5</p>
+        <img src={excercism} className='excercise-img'/>        
+        <p className='excercise-text'>
+        <a href='https://exercism.org/profiles/Elias125'>link a mi perfil</a>  
+        <br/>
+        ejercicios resueltos : 15</p>
       </div>
     </div>
     <div className='pro-container'>

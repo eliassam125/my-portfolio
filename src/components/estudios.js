@@ -11,7 +11,7 @@ function Estudios() {
       <div className='estudios'>
         <h1 className='titulo'>Estudios</h1>
         <div className='estudios-uni'>
-          <img src={escudo}/><p className='text-uni'>Estudio Ingeniería en Computación en la Universidad Nacional de Cordoba,
+          <img src={escudo} className='escudo'/><p className='text-uni'>Estudio Ingeniería en Computación en la Universidad Nacional de Cordoba,
              es una carrera que integra conocimientos de ciencias electrónicas, tecnología de la información,
              matemáticas y física. Va más allá de la programación, abarcando el diseño y desarrollo de software,
              así como la implementación de soluciones tecnológicas avanzadas. Genera un espectro de habilidades para abordar

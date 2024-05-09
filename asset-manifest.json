@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.8d5d4240.css",
-    "main.js": "/my-portfolio/static/js/main.89747c5b.js",
+    "main.css": "/my-portfolio/static/css/main.9f8490c8.css",
+    "main.js": "/my-portfolio/static/js/main.8931dc39.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/universidad-3.png": "/my-portfolio/static/media/universidad-3.b8780a7b6e34f836c303.png",
+    "static/media/universidad-2.png": "/my-portfolio/static/media/universidad-2.0dd6970ee94724271e92.png",
+    "static/media/universidad-1.png": "/my-portfolio/static/media/universidad-1.7679400f5847f1a0e3eb.png",
     "static/media/my_foto_home_page.png": "/my-portfolio/static/media/my_foto_home_page.11bc9a2880fd3f413862.png",
     "static/media/Exercism-logo.png": "/my-portfolio/static/media/Exercism-logo.8d9c04b7e81ec3112959.png",
     "static/media/LeetCode_Logo.png": "/my-portfolio/static/media/LeetCode_Logo.d51d69d4fac50633cdb4.png",
@@ -16,12 +19,12 @@
     "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
     "static/media/upwork.png": "/my-portfolio/static/media/upwork.013a1416d02d9df64214.png",
     "index.html": "/my-portfolio/index.html",
-    "main.8d5d4240.css.map": "/my-portfolio/static/css/main.8d5d4240.css.map",
-    "main.89747c5b.js.map": "/my-portfolio/static/js/main.89747c5b.js.map",
+    "main.9f8490c8.css.map": "/my-portfolio/static/css/main.9f8490c8.css.map",
+    "main.8931dc39.js.map": "/my-portfolio/static/js/main.8931dc39.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d5d4240.css",
-    "static/js/main.89747c5b.js"
+    "static/css/main.9f8490c8.css",
+    "static/js/main.8931dc39.js"
   ]
 }

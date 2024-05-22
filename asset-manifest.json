@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.1f2ec7f6.css",
+    "main.css": "/my-portfolio/static/css/main.a4f4977a.css",
     "main.js": "/my-portfolio/static/js/main.e67ccf0e.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/universidad-3.png": "/my-portfolio/static/media/universidad-3.b8780a7b6e34f836c303.png",
     "static/media/universidad-2.png": "/my-portfolio/static/media/universidad-2.0dd6970ee94724271e92.png",
+    "static/media/fondoEstudios.jpg": "/my-portfolio/static/media/fondoEstudios.d5b28c2b1bbccdc5152a.jpg",
     "static/media/universidad-1.png": "/my-portfolio/static/media/universidad-1.7679400f5847f1a0e3eb.png",
+    "static/media/fondoCode.jpg": "/my-portfolio/static/media/fondoCode.478795ff49245bb2c997.jpg",
+    "static/media/fondoContacto.jpg": "/my-portfolio/static/media/fondoContacto.c1946854aa274512d123.jpg",
     "static/media/my_foto_home_page.png": "/my-portfolio/static/media/my_foto_home_page.11bc9a2880fd3f413862.png",
     "static/media/fondoHome.jpg": "/my-portfolio/static/media/fondoHome.378cd325556db57efb19.jpg",
     "static/media/Exercism-logo.png": "/my-portfolio/static/media/Exercism-logo.8d9c04b7e81ec3112959.png",
@@ -20,12 +23,12 @@
     "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
     "static/media/upwork.png": "/my-portfolio/static/media/upwork.013a1416d02d9df64214.png",
     "index.html": "/my-portfolio/index.html",
-    "main.1f2ec7f6.css.map": "/my-portfolio/static/css/main.1f2ec7f6.css.map",
+    "main.a4f4977a.css.map": "/my-portfolio/static/css/main.a4f4977a.css.map",
     "main.e67ccf0e.js.map": "/my-portfolio/static/js/main.e67ccf0e.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f2ec7f6.css",
+    "static/css/main.a4f4977a.css",
     "static/js/main.e67ccf0e.js"
   ]
 }

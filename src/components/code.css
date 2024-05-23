@@ -1,9 +1,9 @@
 .code{
     display: grid;
-    background-color: rgb(7, 7, 129);
+    background-image: url('./img/fondoPaginas/fondoCode.jpg');
     height: 290vh;
-  
-    
+    background-attachment: fixed;
+    background-size: 1920px 1080px;
 }
 h1{
     margin-left: 300px;
@@ -51,4 +51,31 @@ h1{
 }
 .gallery{
     z-index: 1;
+}
+@media screen and (max-width: 800px) {
+    .excercise-img{
+        width: 130px;
+        height: 55px;
+        border-radius:5px
+    }
+    .excercise-text{
+        font-size: 20px;
+    }
+    .pro-logo{
+        width: 220px;
+        height: 120px;
+    }
+    h1{
+        margin-left: 50px;
+    }
+    .excercise-container{
+        margin-left: 50px;
+    }
+    .pro-container{
+        margin-left: 50px;
+    }
+    .code{
+        height: 180vh;
+        background-size: 900px 900px;
+    }
 }

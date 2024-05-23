@@ -1,9 +1,10 @@
 .contacto{
     /* no quitar display grid*/
     display:grid;
-    background-color: rgb(7, 7, 129);
     height: 100vh;
-
+    background-attachment: fixed;
+    background-image: url('./img/fondoPaginas/fondoContacto.jpg');
+    background-size: 1920px 1080px;
     
 }
 .titulo{
@@ -54,6 +55,7 @@
 @media screen and (max-width: 800px) {
     .contacto{
         margin-left: -11vw;
+        background-size: 600px 900px;
     }
     .titulo{
         height: 10px;

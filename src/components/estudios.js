@@ -1,11 +1,11 @@
 import './estudios.css'
-import escudo from './img/escudo-uni.png'
-import percentage31 from './img/31-percentage.png'
+import escudo from './img/imgEstudios/escudo-uni.png'
+import percentage31 from './img/imgEstudios/31-percentage.png'
 import Gallery from './gallery';
-import uni1 from './img/universidad-1.png'
-import uni2 from './img/universidad-2.png'
-import uni3 from './img/universidad-3.png'
-import kagglelogo from './img/kaggle-logo.png'
+import uni1 from './img/imgEstudios/universidad-1.png'
+import uni2 from './img/imgEstudios/universidad-2.png'
+import uni3 from './img/imgEstudios/universidad-3.png'
+import kagglelogo from './img/imgEstudios/kaggle-logo.png'
 function Estudios() {
     return (
       <div className='estudios'>

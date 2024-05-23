@@ -3,8 +3,8 @@ import Gallery from './gallery';
 import uni1 from './img/estudios-uni1.png'
 import uni2 from './img/estudios-uni2.png'
 import uni3 from './img/estudios-uni3.png'
-import leetcode from './img/LeetCode_Logo.png'
-import excercism from './img/Exercism-logo.png'
+import leetcode from './img/imgCode/LeetCode_Logo.png'
+import excercism from './img/imgCode/Exercism-logo.png'
 
 
 function Code() {

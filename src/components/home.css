@@ -3,7 +3,8 @@
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: repeat(6, 1fr);
-    background-color: #0e1b5a;
+    background-image: url('./img/fondoPaginas/fondoHome.jpg');
+    background-size: cover;
     height: 100vh;
   
     
@@ -17,7 +18,9 @@
     grid-row-end: 3;
     background-color: rgb(255, 255, 255);
     font-size: 6vmin;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: 40px 40px 0px 0px;
   }
   
@@ -28,7 +31,9 @@
     grid-row-end: 4;
     background-color: rgb(255, 255, 255);
     font-size: 6vmin;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: start;
     border-radius: 0px 0px 40px 40px;
   }
   

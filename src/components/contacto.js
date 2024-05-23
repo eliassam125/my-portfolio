@@ -1,11 +1,11 @@
 import './contacto.css'
-import  cellphone from "./img/smartphone.png";
-import  whatsapp from "./img/whatsapp.png";
-import  gmail from "./img/gmail.png";
-import  linkedin from "./img/linkedin.png";
-import  github from "./img/github.png";
-import  upwork from "./img/upwork.png";
-import  fiverr from "./img/fiverr.png";
+import  cellphone from "./img/imgContact/smartphone.png";
+import  whatsapp from "./img/imgContact/whatsapp.png";
+import  gmail from "./img/imgContact/gmail.png";
+import  linkedin from "./img/imgContact/linkedin.png";
+import  github from "./img/imgContact/github.png";
+import  upwork from "./img/imgContact/upwork.png";
+import  fiverr from "./img/imgContact/fiverr.png";
 
 
 

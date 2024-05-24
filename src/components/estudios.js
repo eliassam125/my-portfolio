@@ -6,6 +6,10 @@ import uni1 from './img/imgEstudios/universidad-1.png'
 import uni2 from './img/imgEstudios/universidad-2.png'
 import uni3 from './img/imgEstudios/universidad-3.png'
 import kagglelogo from './img/imgEstudios/kaggle-logo.png'
+import youtubeBanner from './img/imgEstudios/youtubeBanner.png'
+import kaggleBanner from './img/imgEstudios/kaggleBanner.png'
+import w3sBanner from './img/imgEstudios/w3schoolBanner.png'
+import sololearnBanner from './img/imgEstudios/sololearnBanner.png'
 function Estudios() {
     return (
       <div className='estudios'>
@@ -22,25 +26,25 @@ function Estudios() {
           <img className='percentage' src={percentage31}/>
         </div>
         <div className='site-container'>
-          <img src={kagglelogo} className='site-logo'/>
+          <img src={youtubeBanner} className='site-logo'/>
           <div className='gallery'>
           <Gallery slideImages={[uni1,uni2,uni3]}/>
           </div>
         </div>
         <div className='site-container'>
-          <img src={kagglelogo} className='site-logo'/>
+          <img src={kaggleBanner} className='site-logo'/>
           <div className='gallery'>
           <Gallery slideImages={[uni1,uni2,uni3]}/>
           </div>
         </div>
         <div className='site-container'>
-          <img src={kagglelogo} className='site-logo'/>
+          <img src={sololearnBanner} className='site-logo'/>
           <div className='gallery'>
           <Gallery slideImages={[uni1,uni2,uni3]}/>
           </div>
         </div>
         <div className='site-container'>
-          <img src={kagglelogo} className='site-logo'/>
+          <img src={w3sBanner} className='site-logo'/>
           <div className='gallery'>
           <Gallery slideImages={[uni1,uni2,uni3]}/>
           </div>

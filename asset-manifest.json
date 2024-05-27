@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.b42d9890.css",
-    "main.js": "/my-portfolio/static/js/main.e7b58013.js",
+    "main.css": "/my-portfolio/static/css/main.84453e65.css",
+    "main.js": "/my-portfolio/static/js/main.263d7da6.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/universidad-3.png": "/my-portfolio/static/media/universidad-3.b8780a7b6e34f836c303.png",
     "static/media/universidad-2.png": "/my-portfolio/static/media/universidad-2.0dd6970ee94724271e92.png",
@@ -10,12 +10,12 @@
     "static/media/fondoCode.jpg": "/my-portfolio/static/media/fondoCode.478795ff49245bb2c997.jpg",
     "static/media/fondoContacto.jpg": "/my-portfolio/static/media/fondoContacto.c1946854aa274512d123.jpg",
     "static/media/my_foto_home_page.png": "/my-portfolio/static/media/my_foto_home_page.11bc9a2880fd3f413862.png",
+    "static/media/youtubeBanner.png": "/my-portfolio/static/media/youtubeBanner.d06fd2c73229edc77d2f.png",
+    "static/media/sololearnBanner.png": "/my-portfolio/static/media/sololearnBanner.520829bdf6fe0673e276.png",
+    "static/media/w3schoolBanner.png": "/my-portfolio/static/media/w3schoolBanner.c8391df6a5af0f029e09.png",
     "static/media/fondoHome.jpg": "/my-portfolio/static/media/fondoHome.378cd325556db57efb19.jpg",
+    "static/media/kaggleBanner.png": "/my-portfolio/static/media/kaggleBanner.356ac412c71197b00e9c.png",
     "static/media/Exercism-logo.png": "/my-portfolio/static/media/Exercism-logo.8d9c04b7e81ec3112959.png",
-    "static/media/youtubeBanner.png": "/my-portfolio/static/media/youtubeBanner.4cc5cbf0f20dad4c9672.png",
-    "static/media/w3schoolBanner.png": "/my-portfolio/static/media/w3schoolBanner.64a3cf14aa94b9cf0eeb.png",
-    "static/media/kaggleBanner.png": "/my-portfolio/static/media/kaggleBanner.5238cecca2a7142cf5a6.png",
-    "static/media/sololearnBanner.png": "/my-portfolio/static/media/sololearnBanner.148706206654783be72c.png",
     "static/media/LeetCode_Logo.png": "/my-portfolio/static/media/LeetCode_Logo.d51d69d4fac50633cdb4.png",
     "static/media/kaggle-logo.png": "/my-portfolio/static/media/kaggle-logo.61eafa82b878040a9830.png",
     "static/media/whatsapp.png": "/my-portfolio/static/media/whatsapp.c826b0165560636baf0b.png",
@@ -27,12 +27,12 @@
     "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
     "static/media/upwork.png": "/my-portfolio/static/media/upwork.013a1416d02d9df64214.png",
     "index.html": "/my-portfolio/index.html",
-    "main.b42d9890.css.map": "/my-portfolio/static/css/main.b42d9890.css.map",
-    "main.e7b58013.js.map": "/my-portfolio/static/js/main.e7b58013.js.map",
+    "main.84453e65.css.map": "/my-portfolio/static/css/main.84453e65.css.map",
+    "main.263d7da6.js.map": "/my-portfolio/static/js/main.263d7da6.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b42d9890.css",
-    "static/js/main.e7b58013.js"
+    "static/css/main.84453e65.css",
+    "static/js/main.263d7da6.js"
   ]
 }

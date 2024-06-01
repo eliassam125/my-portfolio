@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.bff7a6dd.css",
-    "main.js": "/my-portfolio/static/js/main.263d7da6.js",
+    "main.js": "/my-portfolio/static/js/main.159fdec4.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/universidad-3.png": "/my-portfolio/static/media/universidad-3.b8780a7b6e34f836c303.png",
     "static/media/universidad-2.png": "/my-portfolio/static/media/universidad-2.0dd6970ee94724271e92.png",
@@ -9,7 +9,13 @@
     "static/media/universidad-1.png": "/my-portfolio/static/media/universidad-1.7679400f5847f1a0e3eb.png",
     "static/media/fondoCode.jpg": "/my-portfolio/static/media/fondoCode.478795ff49245bb2c997.jpg",
     "static/media/fondoContacto.jpg": "/my-portfolio/static/media/fondoContacto.c1946854aa274512d123.jpg",
+    "static/media/hojaKaggle2.png": "/my-portfolio/static/media/hojaKaggle2.0868fe8a7dcdcea24c7b.png",
+    "static/media/hojaKaggle1.png": "/my-portfolio/static/media/hojaKaggle1.64f132cad019d0adf3cf.png",
+    "static/media/hojaKaggle3.png": "/my-portfolio/static/media/hojaKaggle3.0f7d3bb5c94b54ce347a.png",
+    "static/media/hojaYoutube1.png": "/my-portfolio/static/media/hojaYoutube1.3f035f947df496a029fc.png",
     "static/media/my_foto_home_page.png": "/my-portfolio/static/media/my_foto_home_page.11bc9a2880fd3f413862.png",
+    "static/media/hojaSololearnn1.png": "/my-portfolio/static/media/hojaSololearnn1.8d34b42708a646d54421.png",
+    "static/media/hojaW3school1.png": "/my-portfolio/static/media/hojaW3school1.0bf6d5ba86e2c2731a7f.png",
     "static/media/youtubeBanner.png": "/my-portfolio/static/media/youtubeBanner.d06fd2c73229edc77d2f.png",
     "static/media/sololearnBanner.png": "/my-portfolio/static/media/sololearnBanner.520829bdf6fe0673e276.png",
     "static/media/w3schoolBanner.png": "/my-portfolio/static/media/w3schoolBanner.c8391df6a5af0f029e09.png",
@@ -17,7 +23,6 @@
     "static/media/kaggleBanner.png": "/my-portfolio/static/media/kaggleBanner.356ac412c71197b00e9c.png",
     "static/media/Exercism-logo.png": "/my-portfolio/static/media/Exercism-logo.8d9c04b7e81ec3112959.png",
     "static/media/LeetCode_Logo.png": "/my-portfolio/static/media/LeetCode_Logo.d51d69d4fac50633cdb4.png",
-    "static/media/kaggle-logo.png": "/my-portfolio/static/media/kaggle-logo.61eafa82b878040a9830.png",
     "static/media/whatsapp.png": "/my-portfolio/static/media/whatsapp.c826b0165560636baf0b.png",
     "static/media/estudios-uni3.png": "/my-portfolio/static/media/estudios-uni3.85027fafb7a9c1bc7797.png",
     "static/media/estudios-uni2.png": "/my-portfolio/static/media/estudios-uni2.4a2ba1b5b6b59b5481b2.png",
@@ -28,11 +33,11 @@
     "static/media/upwork.png": "/my-portfolio/static/media/upwork.013a1416d02d9df64214.png",
     "index.html": "/my-portfolio/index.html",
     "main.bff7a6dd.css.map": "/my-portfolio/static/css/main.bff7a6dd.css.map",
-    "main.263d7da6.js.map": "/my-portfolio/static/js/main.263d7da6.js.map",
+    "main.159fdec4.js.map": "/my-portfolio/static/js/main.159fdec4.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bff7a6dd.css",
-    "static/js/main.263d7da6.js"
+    "static/js/main.159fdec4.js"
   ]
 }

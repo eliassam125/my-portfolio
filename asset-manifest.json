@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.bff7a6dd.css",
-    "main.js": "/my-portfolio/static/js/main.159fdec4.js",
+    "main.js": "/my-portfolio/static/js/main.b7c93aa8.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/universidad-3.png": "/my-portfolio/static/media/universidad-3.b8780a7b6e34f836c303.png",
     "static/media/universidad-2.png": "/my-portfolio/static/media/universidad-2.0dd6970ee94724271e92.png",
@@ -13,6 +13,7 @@
     "static/media/hojaKaggle1.png": "/my-portfolio/static/media/hojaKaggle1.64f132cad019d0adf3cf.png",
     "static/media/hojaKaggle3.png": "/my-portfolio/static/media/hojaKaggle3.0f7d3bb5c94b54ce347a.png",
     "static/media/hojaYoutube1.png": "/my-portfolio/static/media/hojaYoutube1.3f035f947df496a029fc.png",
+    "static/media/hojaKaggle4.png": "/my-portfolio/static/media/hojaKaggle4.e8d99d05f1f63d8cfd0c.png",
     "static/media/my_foto_home_page.png": "/my-portfolio/static/media/my_foto_home_page.11bc9a2880fd3f413862.png",
     "static/media/hojaSololearnn1.png": "/my-portfolio/static/media/hojaSololearnn1.8d34b42708a646d54421.png",
     "static/media/hojaW3school1.png": "/my-portfolio/static/media/hojaW3school1.0bf6d5ba86e2c2731a7f.png",
@@ -33,11 +34,11 @@
     "static/media/upwork.png": "/my-portfolio/static/media/upwork.013a1416d02d9df64214.png",
     "index.html": "/my-portfolio/index.html",
     "main.bff7a6dd.css.map": "/my-portfolio/static/css/main.bff7a6dd.css.map",
-    "main.159fdec4.js.map": "/my-portfolio/static/js/main.159fdec4.js.map",
+    "main.b7c93aa8.js.map": "/my-portfolio/static/js/main.b7c93aa8.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bff7a6dd.css",
-    "static/js/main.159fdec4.js"
+    "static/js/main.b7c93aa8.js"
   ]
 }
